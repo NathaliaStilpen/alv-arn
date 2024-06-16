@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/natha/CLionProjects/untitled/arn.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+arn.h
+C:/Users/natha/CLionProjects/untitled/arn.h
+
+C:/Users/natha/CLionProjects/untitled/arn.h
+
+C:/Users/natha/CLionProjects/untitled/avl.c
+avl.h
+C:/Users/natha/CLionProjects/untitled/avl.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/natha/CLionProjects/untitled/avl.h
+
+C:/Users/natha/CLionProjects/untitled/main.c
+avl.h
+C:/Users/natha/CLionProjects/untitled/avl.h
+arn.h
+C:/Users/natha/CLionProjects/untitled/arn.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
